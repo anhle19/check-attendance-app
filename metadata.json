@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Scanner",
+  "description": "Check attendance for events using barcode barcode scanning or manual input, and export reports to CSV files easily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
